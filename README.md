@@ -13,5 +13,6 @@ This Repository Consists of two files:-
 
 # VolumeHandControl
   - Uses pycaw 
-  - pycaw is a python Core Audio Windows Library ![..](https://github.com/AndreMiras/pycaw)
+  - pycaw is a python Core Audio Windows Library 
+  - ![ Link to pycaw github Repository ](https://github.com/AndreMiras/pycaw)
  
